@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="006b8b18-bfee-4f3c-905b-558f931fa209" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="006b8b18-bfee-4f3c-905b-558f931fa209" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -191,9 +189,9 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
@@ -277,14 +275,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556733570267</updated>
-      <workItem from="1556733571606" duration="5887000" />
+      <workItem from="1556733571606" duration="6391000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CelsiusTest - 2019.05.01 at 12h 03m 33s.xml">
-      <configuration name="CelsiusTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CelsiusTest - 2019.05.01 at 12h 05m 10s.xml">
       <configuration name="CelsiusTest" configurationId="JUnit" />
     </history-entry>
@@ -312,9 +307,12 @@
     <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2019.05.01 at 12h 20m 12s.xml">
       <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2019.05.01 at 13h 24m 32s.xml">
+      <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5887000" />
+    <option name="totallyTimeSpent" value="6391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -474,6 +472,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
